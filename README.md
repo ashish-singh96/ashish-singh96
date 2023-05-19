@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 <h3 align="center">I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</h3>
 <p>300DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || University 2nd🥇 Rank GFG || Global 10th🥇 Rank coding block || 1474+ Rating 3⭐ CodeChef || 1200+ Problems Solved on DSA || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 </p>
-
+<h3>About me !</h3>
 - 🌱 I’m currently learning **Java spring boot framework**
 
 - 💬 Ask me about **Data structures and algorithms**
